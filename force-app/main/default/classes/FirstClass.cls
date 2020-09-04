@@ -1,5 +1,5 @@
 public with sharing class FirstClass {
     public FirstClass() {
-        system.debug('==test===');
+        system.debug('==test===New==');
     }
 }
